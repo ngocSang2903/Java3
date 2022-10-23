@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Assignment_Java3_GD1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Assignment_Java3_GD1 1.0-SNAPSHOT API'
+Main
+Model
+Service
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Main/DangNhap.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Main/PhanMENU.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Main/QuanLyDiemSinhVien.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Main/QuanLySinhVien.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Model/DangNhap.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Model/SinhVien.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Model/SinhVienDiem.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Service/DangNhapService.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Service/QuanLySinhVienDiemService.java'
+'D:/JAVA3/LÀM_LAD/Assignment_Java3_GD1/src/main/java/Service/QuanLySinhVienService.java'
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\src\main\java = 1656767891780
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\allclasses-index.html = 1657643140673
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\allpackages-index.html = 1657643140676
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\copy.svg = 1657643140742
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\element-list = 1657643140437
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\help-doc.html = 1657643140710
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\index-all.html = 1657643140702
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\index.html = 1657643140654
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\jquery-ui.overrides.css = 1657643140867
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\member-search-index.js = 1657643140681
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\module-search-index.js = 1657643140677
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\overview-summary.html = 1657643140704
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\overview-tree.html = 1657643140637
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\package-search-index.js = 1657643140679
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\script.js = 1657643140735
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\search.js = 1657643140745
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\serialized-form.html = 1657643140545
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\stylesheet.css = 1657643140720
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\tag-search-index.js = 1657643140682
+D:\JAVA3\LÀM_LAD\Assignment_Java3_GD1\target\site\apidocs\type-search-index.js = 1657643140680
